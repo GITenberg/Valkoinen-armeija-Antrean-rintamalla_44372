@@ -1,0 +1,27 @@
+_repo: Valkoinen-armeija-Antrean-rintamalla_44372
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sihvo, Aarne
+    birthdate: 1889
+    deathdate: 1963
+    gutenberg_agent_id: '42715'
+    url: http://www.gutenberg.org/2009/agents/42715
+    wikipedia: http://fi.wikipedia.org/wiki/Aarne_Sihvo
+description: ''
+gutenberg_issued: '2013-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44372'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Finland -- History -- Civil War, 1918'
+title: Valkoinen armeija Antrean rintamalla
+url: http://www.gutenberg.org/ebooks/44372
