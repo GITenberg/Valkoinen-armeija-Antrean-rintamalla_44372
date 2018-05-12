@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42715
     wikipedia: http://fi.wikipedia.org/wiki/Aarne_Sihvo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44372#Valkoinen-armeija-Antrean-rintamalla
 gutenberg_issued: '2013-12-06'
 gutenberg_type: Text
 identifiers:
